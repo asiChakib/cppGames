@@ -1,0 +1,10 @@
+﻿  DoodleJump.cpp
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(47,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(48,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(55,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(63,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(63,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(69,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\salou\Desktop\vsC++\SFMLGame\DoodleJump.cpp(69,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLGame.vcxproj -> C:\Users\salou\Desktop\vsC++\SFMLGame\x64\Debug\SFMLGame.exe

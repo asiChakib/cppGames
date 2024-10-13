@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD56C7-C6EA-490A-900F-20A523F32091}|SFMLGame.vcxproj|C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\DoodleJump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DDD56C7-C6EA-490A-900F-20A523F32091}|SFMLGame.vcxproj|solutionrelative:DoodleJump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD56C7-C6EA-490A-900F-20A523F32091}|SFMLGame.vcxproj|C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\SFMLGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DDD56C7-C6EA-490A-900F-20A523F32091}|SFMLGame.vcxproj|solutionrelative:SFMLGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoodleJump.cpp",
+              "DocumentMoniker": "C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\DoodleJump.cpp",
+              "RelativeDocumentMoniker": "DoodleJump.cpp",
+              "ToolTip": "C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\DoodleJump.cpp",
+              "RelativeToolTip": "DoodleJump.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T15:49:18.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SFMLGame.cpp",
+              "DocumentMoniker": "C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\SFMLGame.cpp",
+              "RelativeDocumentMoniker": "SFMLGame.cpp",
+              "ToolTip": "C:\\Users\\salou\\Desktop\\vsC\u002B\u002B\\SFMLGame\\SFMLGame.cpp",
+              "RelativeToolTip": "SFMLGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T13:44:26.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
